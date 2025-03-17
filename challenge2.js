@@ -1,4 +1,6 @@
 // ranked match calculator
+// inserir número de vitórias e derrotas na variável "result"
+
 let result = calcular (100, 30)
 let nível = 0
 
